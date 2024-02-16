@@ -1,0 +1,16 @@
+{
+  "name": "nitiks",
+  "version": "1.0.0",
+  "description": "Nodejs Express and Docker file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "start" : "node index.js"
+  },
+  "keywords": [],
+  "author": "Nitika",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
